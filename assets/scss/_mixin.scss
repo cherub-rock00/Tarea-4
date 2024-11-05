@@ -1,0 +1,5 @@
+@mixin base-card() {
+    background-color:$background-color;
+    color:$base-color;
+    padding: 2rem;
+    margin:0 1rem;
